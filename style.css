@@ -1,0 +1,24 @@
+
+
+body{
+    font-family:Arial, Helvetica, sans-serif;
+}
+.Tribute-page{
+    text-align:center;
+    background-color: #eee;
+    padding: 60px 30px 50px 30px;
+}
+.heading{
+    font-size= 60px;
+    margin-bottom: 30px;
+
+}
+.heading-text {
+    font-size: 24;
+}
+.img-section{
+    background-color: white;
+    width: 100px;
+    margin:0px;
+
+}
